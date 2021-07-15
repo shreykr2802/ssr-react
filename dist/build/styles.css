@@ -1,0 +1,4 @@
+.SearchContainer{display:flex;align-items:center;justify-content:space-around;flex-direction:column;height:8rem}.MovieList{display:flex;align-items:center;justify-content:space-around;flex-direction:row;flex-wrap:wrap}.MoviesCard{display:flex;align-items:center;align-content:space-between;flex-direction:column;border:1px solid grey;box-shadow:10px 10px 10px 10px grey;height:25rem;width:20rem;border-radius:2rem;margin:2rem;padding:1rem}.MoviePoster{height:5rem}.MovieDetails{display:flex;align-items:center;justify-content:space-around;flex-direction:column;flex-wrap:wrap}
+
+
+/*# sourceMappingURL=styles.css.map*/
